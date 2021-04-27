@@ -3678,7 +3678,9 @@ input, select, textarea {
 						}
 
 		}
-
+		html{
+		    scroll-behaviour : smooth;
+		} 
 /* Footer */
 
 	#footer {
